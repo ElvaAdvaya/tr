@@ -1,7 +1,7 @@
 {
   "nodes": [
   {
-    "id": "The world is",
+    "id": "the world is",
     "group": "substance"
   },
   {
@@ -9,7 +9,7 @@
     "group": "fact"
   },
   {
-    "id": "The world is2",
+    "id": "the world is",
     "group": "substance"
   },
   {
@@ -17,7 +17,7 @@
     "group": "fact"
   },
   {
-    "id": "The world is3",
+    "id": "the world is",
     "group": "substance"
   },
   {
@@ -46,7 +46,7 @@
     "value": 1
   },
   {
-    "source": "The world is",
+    "source": "the world is",
     "target": "determined by the facts, and by these being all the facts.",
     "value": 1
   },
