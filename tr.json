@@ -5,7 +5,7 @@
     "group": "substance"
   },
   {
-    "id": "everything that is the case.",
+    "id": "everythingthatisthecase",
     "group": "fact"
   },
   {
@@ -37,7 +37,7 @@
 [
   {
     "source": "aa",
-    "target": "everything that is the case",
+    "target": "everythingthatisthecase",
     "value": 1
   },
   {
