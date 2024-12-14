@@ -1,15 +1,15 @@
 {
   "nodes": [
   {
-    "id": "aa",
+    "id": "1.The world is",
     "group": "substance"
   },
   {
-    "id": "bb",
+    "id": "everything that is the case.",
     "group": "fact"
   },
   {
-    "id": "the world is2",
+    "id": "2.The world is",
     "group": "substance"
   },
   {
@@ -17,7 +17,7 @@
     "group": "fact"
   },
   {
-    "id": "the world is3",
+    "id": "3.The world is",
     "group": "substance"
   },
   {
@@ -36,17 +36,17 @@
   "links": 
 [
   {
-    "source": "aa",
-    "target": "bb",
+    "source": "1.The world is",
+    "target": "everything that is the case",
     "value": 1
   },
   {
-    "source": "bb",
+    "source": "2.The world is",
     "target": "the totality of facts, not of things.",
     "value": 1
   },
   {
-    "source": "cc",
+    "source": "3.The world is",
     "target": "determined by the facts, and by these being all the facts.",
     "value": 1
   },
