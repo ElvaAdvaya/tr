@@ -1,0 +1,59 @@
+{
+  "nodes": [
+  {
+    "id": "The world is",
+    "group": "substance"
+  },
+  {
+    "id": "everything that is the case.",
+    "group": "fact"
+  },
+  {
+    "id": "The world is",
+    "group": "substance"
+  },
+  {
+    "id": "the totality of facts, not of things.",
+    "group": "fact"
+  },
+  {
+    "id": "The world is",
+    "group": "substance"
+  },
+  {
+    "id": "determined by the facts, and by these being all the facts.",
+    "group": "fact"
+  },
+  {
+    "id": "For the totality of facts determines",
+    "group": "fact"
+  },
+  {
+    "id": "both what is the case, and also all that is not the case.",
+    "group": "obtain"
+  }
+],
+  "links": 
+[
+  {
+    "source": "the world is",
+    "target": "everything that is the case",
+    "value": 1
+  },
+  {
+    "source": "the world is",
+    "target": "the totality of facts, not of things.",
+    "value": 1
+  },
+  {
+    "source": "The world is",
+    "target": "determined by the facts, and by these being all the facts.",
+    "value": 1
+  },
+  {
+    "source": "For the totality of facts determines",
+    "target": "both what is the case, and also all that is not the case.",
+    "value": 1
+  }
+]
+}
